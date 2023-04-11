@@ -1,1 +1,2 @@
-this is main in dev.
+config:
+  info: "this is main on dev, version = 1"
